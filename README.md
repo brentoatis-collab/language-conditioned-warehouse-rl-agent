@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Linking natural-language goals to warehouse navigation and fulfillment decisions.
+
 # RL + NLP GridWorld Agent  
 ### Language-Conditioned Reinforcement Learning for Warehouse Navigation
 
